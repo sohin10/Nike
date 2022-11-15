@@ -66,3 +66,34 @@ Below is a sketch of the pages I wish to build.
 ![ProdPhone](https://user-images.githubusercontent.com/60220627/200640231-395cb805-626c-4f0a-8fb9-e72a60116593.PNG)
 
 
+
+
+
+# Milestone 2 - CHANGES
+
+
+As I began working with and learning THREE JS, I discovered that my project idea with the particle system was too complex for me to accomplish in such a short period of time. 
+
+I began using spline and figuring out how to make and import 3D models into the program. The program features an integrated method for generating JS code for you. It included a whole THREE Js file formatted to be used in my project. It was perfect, but I chose not to utilize it. This was due to the fact that it was already pre-written, and if I used it as-is, I would not learn anything about THREE JS (and my goal is to get a better understanding of THREE JS and be able to use and manipulate it as I want). 
+
+As a result, I decided to modify my initial idea for the animation I intended to produce for this project. 
+
+This project's initial concept remains unchanged; it is still an ecommerce website for NIKE. However, this is more akin to a soft launch for a new product. 
+I desired for the 3D model to animate and float while scrolling. 
+
+
+I created a new prototype design and began to replicate it in code. 
+As my professor Peter said, THREE JS is a lot, and it is. I am pleased with how my website turned out since it is almost identical to how I envisioned it. 
+
+I am now working on some difficulties with the website since the orbit controls function doesn't work correctly in desktop view, but kind of works in mobile view if the scroll is not engaged. I suspect it has something to do with the scroll interfering with the orbit controls and maybe the size of my 3D model and the canvas area it occupies. 
+
+Overall, I believe the project functions well and looks neat. I learnt and played with the camera, the various lighting, the rotations, and the placement of the 3D model. It was exciting and incredibly fascinating to watch how the 3D model moved around, and it is such a fantastic way to develop websites and add life and interactivity to websites. 
+
+Once I am more familiar with THREE JS, I want to revisit this project and create a 
+particle-based 3D model of the shoe, which solidifies when it is explored.
+
+## New Protoype
+
+Below is the sketch showcasing the new prototpye.
+
+![Untitled_Artwork](https://user-images.githubusercontent.com/60220627/202017297-1cd27f01-eb8f-43d8-b4af-87908b220814.png)
