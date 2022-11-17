@@ -130,10 +130,6 @@ const controls = new THREE.OrbitControls (camera, canvas);
 
 controls.enable = true;
 
-
-
-
-
  
 
 /**
