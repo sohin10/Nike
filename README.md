@@ -125,9 +125,16 @@ My final design was a soft launch of a new nike jordans sneaker, and you could m
 
 The code is currently a bit flawed, as the shoe does not move in desktop mode. However, if you switch to mobile view, you can observe the orbit control function of Three.js in action, which I thought was a really cool tool to apply on this website. 
 
+### # Milestone 2 - CHANGES
 I added an additional milestone 2 with changes I made to my design so that I could also document those changes as I changed my original plan before preseniting it.
+You can read about those under this heading.
 
 I received positive responses from everyone regarding the aesthetics and color scheme of my website. This will be added to my personal portfolio. 
 During the winter break, I plan to delve deeper into understanding THREE.js and gaining a firm grip of its fundamentals, as well as developing more amazing website designs for my portfolio. When I become an "expert Three.js programmer", I will work on resolving this project's issues and possibly develop the particle system. 
 
 Overall, it was a very enjoyable project to work on and to see how others implemented other libraries, as well as to learn so much more about other libraries, which I look forward to learning more about and utilizing in future projects and works.
+
+
+
+## FINAL WEBSITE LINK
+https://sohin10.github.io/Nike/
