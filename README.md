@@ -103,7 +103,7 @@ Below is the sketch showcasing the new prototpye.
 
 
 
-# PROJECT 2- MILESTONE 4 
+# MILESTONE 4 
 
 I believe I enjoyed designing this website the most. I took on the challenge of working with a new toolkit for my second project. As previously stated, I chose THREE.js for this project because I am fascinated by animations and adore how they can breathe life into a static website design and make it engaging and interactive. 
 
