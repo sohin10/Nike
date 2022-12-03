@@ -97,3 +97,35 @@ particle-based 3D model of the shoe, which solidifies when it is explored.
 Below is the sketch showcasing the new prototpye.
 
 ![Untitled_Artwork](https://user-images.githubusercontent.com/60220627/202017297-1cd27f01-eb8f-43d8-b4af-87908b220814.png)
+
+
+
+
+
+
+# PROJECT 2- MILESTONE 4 
+
+I believe I enjoyed designing this website the most. I took on the challenge of working with a new toolkit for my second project. As previously stated, I chose THREE.js for this project because I am fascinated by animations and adore how they can breathe life into a static website design and make it engaging and interactive. 
+
+Before beginning this project and coding, I explored the THREE.js documentation to familiarize myself with the many techniques and choices three js has to offer. Once I had a general notion, I began watching YouTube tutorials to have a deeper knowledge of how the code functions and appears while it is live. 
+It was fascinating to see how three.js allowed you to import many object files from different softwares into your website. 
+
+
+Then I began sketching my website layout on my iPad. I was developing a Nike e-commerce website for this project. I desired to design a website based on Nike's aesthetics and in line with its brand identification. However, I aimed to make the website feel alive and interactive. 
+
+My initial plan was to employ the particle system of Three.js to turn an obj file of a 3D shoe into particles, which, upon further exploration and movement, would reform into the shoe's solid shape. 
+
+However, as I began to code it, I encountered numerous issues and errors, and it seems tough to learn such complicated code in such a short period. 
+
+Consequently, I modified my first design and somewhat deviated. The website's overall design remained unchanged, however I altered the animations. 
+
+In addition to learning Three.js, I studied gsap, which aided in the animation of my 3D model and screens. 
+
+My final design was a soft launch of a new nike jordans sneaker, and you could move it, zoom in and out, and basically get a 360-degree view of the shoe using the mouse in order to purchase it. 
+
+The code is currently a bit flawed, as the shoe does not move in desktop mode. However, if you switch to mobile view, you can observe the orbit control function of Three.js in action, which I thought was a really cool tool to apply on this website. 
+
+I received positive responses from everyone regarding the aesthetics and color scheme of my website. This will be added to my personal portfolio. 
+During the winter break, I plan to delve deeper into understanding THREE.js and gaining a firm grip of its fundamentals, as well as developing more amazing website designs for my portfolio. When I become an "expert Three.js programmer", I will work on resolving this project's issues and possibly develop the particle system. 
+
+Overall, it was a very enjoyable project to work on and to see how others implemented other libraries, as well as to learn so much more about other libraries, which I look forward to learning more about and utilizing in future projects and works.
