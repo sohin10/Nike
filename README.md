@@ -125,7 +125,7 @@ My final design was a soft launch of a new nike jordans sneaker, and you could m
 
 The code is currently a bit flawed, as the shoe does not move in desktop mode. However, if you switch to mobile view, you can observe the orbit control function of Three.js in action, which I thought was a really cool tool to apply on this website. 
 
-### # Milestone 2 - CHANGES
+#### Milestone 2 - CHANGES
 I added an additional milestone 2 with changes I made to my design so that I could also document those changes as I changed my original plan before preseniting it.
 You can read about those under this heading.
 
