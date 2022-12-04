@@ -132,6 +132,7 @@ The code is currently a bit flawed, as the shoe does not move in desktop mode. H
 I added an additional milestone 2 with changes I made to my design so that I could also document those changes as I changed my original plan before preseniting it.
 You can read about those under this heading.
 
+#### Conclusion
 I received positive responses from everyone regarding the aesthetics and color scheme of my website. This will be added to my personal portfolio. 
 During the winter break, I plan to delve deeper into understanding THREE.js and gaining a firm grip of its fundamentals, as well as developing more amazing website designs for my portfolio. When I become an "expert Three.js programmer", I will work on resolving this project's issues and possibly develop the particle system. 
 
