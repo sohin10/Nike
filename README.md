@@ -123,6 +123,9 @@ In addition to learning Three.js, I studied gsap, which aided in the animation o
 
 My final design was a soft launch of a new nike jordans sneaker, and you could move it, zoom in and out, and basically get a 360-degree view of the shoe using the mouse in order to purchase it. 
 
+I began by separately coding each section; I started with the html page and the basics, then stylized it using CSS. Once I was satisfied with the appearance of the parts, I began working on the JavaScript page. I loaded the 3D model that I obtained online for free at sketchfab.com, and then I used various rotations and gsap to rotate the shoe as you scroll. Here I discovered the new trick of the sticky scroll bar (scrollY) that allows you to shift from one section to the next as you scroll, which was just what I wanted and required for my website. 
+Using three js, I used the camera to put the shoe into my screen and adjusted the lighting such that the shoe (3D model) was illuminated as desired. Utilized the clock to determine how quickly or slowly I wanted the shoe's animation to occur, as well as the rendering mode and orbit control to manually move the shoe around in space.
+
 The code is currently a bit flawed, as the shoe does not move in desktop mode. However, if you switch to mobile view, you can observe the orbit control function of Three.js in action, which I thought was a really cool tool to apply on this website. 
 
 #### Milestone 2 - CHANGES
